@@ -16,6 +16,10 @@ yarn-error.log*
 .vscode
 *.suo
 *.ntvs*
+<<<<<<< HEAD
 *.njsproj
 *.sln
 *.sw?
+=======
+*.sw?
+>>>>>>> d3be0575cb446ca2cc934656bf40c0818d7849c7
